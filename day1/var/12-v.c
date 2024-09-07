@@ -15,7 +15,7 @@ int main() {
     scanf("%d", &nombre);
 
      int nombreInvers = inverserfoncNombre(nombre);
-    printf("L'inverse de %d est %d\n", nombre, nombreInvers);
+    printf(" inverse de %d est %d\n", nombre, nombreInvers);
 
     return 0;
 }
