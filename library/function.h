@@ -63,7 +63,7 @@ void rechercheParTitre() {
 
     for (int i = 0; i < nombreDeLivres; i++) {
         if (strcmp(livres[i].titre, titreRecherche) == 0) {
-            printf("Livre trouvee :\n");
+               printf("Livre trouvee :\n");
             printf("\t Auteur : %s\n", livres[i].auteur);
             printf("\tTitre : %s\n", livres[i].titre);
             printf("\tQuantit : %d\n", livres[i].quantity);

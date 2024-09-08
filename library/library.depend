@@ -2,3 +2,15 @@
 1725811446 source:c:\users\lenovo\desktop\day2\librairie\library\main.c
 	<stdio.h>
 
+1725811589 source:c:\users\lenovo\desktop\day2\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"function.h"
+
+1725811934 c:\users\lenovo\desktop\day2\library\structure.h
+
+1725812012 c:\users\lenovo\desktop\day2\library\function.h
+	"structure.h"
+

@@ -1,5 +1,7 @@
 #ifndef STRUCTURE_H
 #define STRUCTURE_H
+
+
  typedef struct {
     float prix ;
     char auteur[50];
