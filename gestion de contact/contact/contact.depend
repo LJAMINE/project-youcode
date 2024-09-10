@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1725947283 source:c:\users\lenovo\desktop\day2\gestion de contact\contact\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"function.h"
+
+1725947244 c:\users\lenovo\desktop\day2\gestion de contact\contact\structure.h
+
+1725947281 c:\users\lenovo\desktop\day2\gestion de contact\contact\function.h
+	"structure.h"
+
